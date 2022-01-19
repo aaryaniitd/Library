@@ -1,1 +1,1 @@
-# A Mini Personal Library Record Maintainer 
+# A Personal Library Record Maintainer 
