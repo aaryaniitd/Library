@@ -1,0 +1,19 @@
+These are the instructions for running the MyLibrary program:
+
+1. In order to choose any of the available options, you must press the number associated with
+that option. eg. If "Lend Book" option is at number 3, then press 3 in order to initiate lending process.
+
+2. After you complete an option process then you might see the options again by writing "yes"
+or you may quit the program by writing "no".
+
+3. Everytime you choose an option and then do what the option offers, you will be asked
+whether to see the options again or not, and you can do the desired by following the above
+instruction.
+
+This Program can also be used by you to maintain your personal library records.
+The Books.txt file holds all the books your library has, and is permanently altered each time you 
+run the program.
+Helper program is not for your use, it is just to make the main program run. Altering Helper program
+may lead to failure in running Library program.
+
+Hope You Enjoy This Simple And Effective MyLibrary Program.
